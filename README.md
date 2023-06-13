@@ -1,4 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=AtamerSahin.AtamerSahin)
 [![GitHub Atamer Sahin](https://img.shields.io/github/followers/AtamerSahin?label=follow&style=social)](https://github.com/AtamerSahin)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-AtamerSahin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atamersahin/)](https://www.linkedin.com/in/atamersahin/)
 [![Gmail Badge](https://img.shields.io/badge/-AtamerSahin-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:atamersahin1997@gmail.com)](mailto:atamersahin1997@gmail.com)
